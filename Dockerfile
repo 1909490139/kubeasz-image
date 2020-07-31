@@ -1,1 +1,1 @@
-FROM linux2573/kubeasz:2.1.0
+FROM linux2573/kubeasz:onlyk8s
